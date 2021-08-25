@@ -1,8 +1,8 @@
-### E ai! Eu sou o Patrick Nazareth 👋
++++### E ai! Eu sou o Patrick Nazareth 👋
 
 - 🔭 Hoje estou trabalhando em projetos próprios
 - 🌱 Estudando JavaScript Vanilla
-- 😄 Pronouns: ele/dele
+- 😄 Pronome: ele/dele
 
 <div>
   <a href="https://beacons.ai/Nazareth98">
