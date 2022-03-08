@@ -1,7 +1,7 @@
 ### Seja bem vindo(a)! Eu sou o Patrick Nazareth 👋
 
 - 🔭 Hoje estou trabalhando em projetos próprios
-- 🌱 Estudando JavaScript Vanilla
+- 🌱 Estudando ReactJS
 - 😄 Pronome: ele/dele
 
 <div>
