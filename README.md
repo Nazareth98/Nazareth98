@@ -1,7 +1,8 @@
 ### Seja bem vindo(a)! Eu sou o Patrick Nazareth 👋
 
-- 🔭 Hoje estou trabalhando em projetos próprios
-- 🌱 Focado atualmente na stack Mobile (React Native, TypeScript, Redux, Firebase)
+- 🔭 Atualmente faço parte da equide de desenvolvimento da [@teledata](https://github.com/teledatabrasil)
+- 🌱 Focado atualmente na especialização em NodeJS
+- 📒 Proficiência em React, React Native, Scss, Tailwind
 - 😄 Pronome: ele/dele
 
 <div>
