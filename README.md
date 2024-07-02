@@ -9,3 +9,5 @@
 Seja bem vindo(a), me chamno Patrick. Sou desenvolvedor Fullstack JavaScript com ampla experiência na criação e integração de APIs robustas. Estou acostumado a trabalhar com React e Tailwind, desenvolvendo desde sites estáticos até dashboards completos.
 
 Minha base sólida em JavaScript me proporcionou aprofundar meus conhecimentos em diversas áreas da tecnologia, permitindo-me enfrentar novos desafios com confiança. Nesse processo aprendi a apreciar o sentimento de descobrir uma dificuldade nova ao construir algo pela primeira vez.
+
+Precisando tirar uma idéia do papel? Entra em contato e vamos torná-la material.
