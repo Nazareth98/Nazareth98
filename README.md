@@ -2,8 +2,8 @@
 
 ### Desenvolvedor FullStack Javascript - Freelancer
 
-[![LinkedIn](https://img.shields.io/badge/PatrickNazareth-F20544?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-nazareth-dev/)
-[![Email](https://img.shields.io/badge/patrickn.cointact@gmail.com-F20544?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrickn.cointact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/PatrickNazareth-980028?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-nazareth-dev/)
+[![Email](https://img.shields.io/badge/patrickn.cointact@gmail.com-980028?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrickn.cointact@gmail.com)
 
 
 Seja bem vindo(a), me chamno Patrick. Sou desenvolvedor Fullstack JavaScript com ampla experiência na criação e integração de APIs robustas. Estou acostumado a trabalhar com React e Tailwind, desenvolvendo desde sites estáticos até dashboards completos.
