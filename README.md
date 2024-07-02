@@ -1,8 +1,8 @@
 ### Seja bem vindo(a)! Eu sou o Patrick Nazareth 👋
 
-- 🌱 Focado atualmente na especialização em NodeJS
-- 📒 Proficiência em React, React Native, Scss, Tailwind
-- 😄 Pronome: ele/dele
+- 🌱 Focado atualmente na especialização em NodeJS e React Native
+- 📒 Proficiência em Javascript, tanto no backend quanto no frontend
+ 
 
 <div>
   <a href="https://beacons.ai/Nazareth98">
