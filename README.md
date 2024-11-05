@@ -1,6 +1,6 @@
 # Patrick Nazareth
 
-### Desenvolvedor Full Stack Javascript - Freelancer
+### Desenvolvedor Full Stack
 
 [![LinkedIn](https://img.shields.io/badge/PatrickNazareth-011826?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-nazareth-dev/)
 [![Email](https://img.shields.io/badge/patrickn.cointact@gmail.com-011826?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrickn.cointact@gmail.com)
