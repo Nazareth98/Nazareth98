@@ -10,4 +10,4 @@ Seja bem vindo(a), me chamo Patrick. Sou desenvolvedor Fullstack JavaScript com 
 
 Minha base sólida em JavaScript me proporcionou aprofundar meus conhecimentos em diversas áreas da tecnologia, permitindo-me enfrentar novos desafios com confiança. Nesse processo aprendi a apreciar o sentimento de descobrir uma dificuldade nova ao construir algo pela primeira vez.
 
-Precisando tirar uma ideia do papel? Entre em contato e vamos torná-la realidade.
+Precisando tirar uma ideia do papel? Entra em contato e vamos fazer ela acontecer.
