@@ -3,7 +3,7 @@
 ### Desenvolvedor Full Stack
 
 [![LinkedIn](https://img.shields.io/badge/PatrickNazareth-011826?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-nazareth-dev/)
-[![Email](https://img.shields.io/badge/patrickn.cointact@gmail.com-011826?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrickn.cointact@gmail.com)
+[![Email](https://img.shields.io/badge/patrickn.cointact@gmail.com-011826?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrickn.contact@gmail.com)
 
 
 Seja bem vindo(a), me chamo Patrick. Sou desenvolvedor Fullstack JavaScript e Go com ampla experiência na criação e integração de APIs robustas. Estou acostumado a trabalhar com React e Tailwind, desenvolvendo desde sites estáticos até dashboards completos.
